@@ -1,7 +1,7 @@
 // const name = "0";
-let name = NaN;
-console.log(name);
-if(name){
+let names = NaN;
+console.log(names);
+if(names){
     console.log("true");
 }
 else{
